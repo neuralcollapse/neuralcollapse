@@ -8,7 +8,7 @@ from the browser using Google Colab. (There is a link in the notebook to open in
 MNIST-ResNet18 was chosen because it ran most reliably within the in-browser
 the memory constraints of Google Colab.
 If you are *still* getting out-of-memory errors, try clicking
-"Runtime"->"Factory Reset Runtime" on the menu bar.
+"Runtime"->"Factory Reset Runtime" on the Colab menu bar.
 
 It should be clear how to adapt code to other networks-dataset combinations
 to be run on local clusters with more memory, but if you run into trouble,
