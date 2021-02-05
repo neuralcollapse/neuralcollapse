@@ -11,7 +11,5 @@ the memory constraints of Google Colab.
 If you are *still* getting out-of-memory errors, try clicking
 "Runtime"->"Factory Reset Runtime" on the Colab menu bar.
 
-It should be clear how to adapt code to other networks-dataset combinations
-to be run on local clusters with more memory, but if you run into trouble,
-please feel free to contact the authors. We'd be glad to help.
-Happy experimenting!
+It should be clear how to adapt the code to other networks-dataset combinations
+to be run on local clusters with more memory. Happy experimenting!
