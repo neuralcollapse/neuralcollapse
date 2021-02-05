@@ -1,8 +1,9 @@
 # Neural Collapse Example
 
-Code demonstrating Neural Collapse on Cross-Entropy and MSE Loss.
+The notebook `neuralcollapse.ipynb` contains code demonstrating Neural Collapse 
+on Cross-Entropy and MSE Loss.
 Notebook is designed to be short, easy-to-interpret, and executable
-from the browser using Google Colab.
+from the browser using Google Colab. (There is a link in the notebook to open in Colab.)
 
 MNIST-ResNet18 was chosen because it ran most reliably within the in-browser
 the memory constraints of Google Colab.
